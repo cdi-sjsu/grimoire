@@ -41,8 +41,9 @@ If you haven't set that up yet, go do that first:
 
 ```sh
 git clone https://github.com/cdi-sjsu/svlings
-#or
-git clone git@github:cdi-sjsu/svlings svlings
+#op or 
+# git clone git@github:cdi-sjsu/svlings svlings
+# if you perfer
 cd svling
 nix develop
 ```
