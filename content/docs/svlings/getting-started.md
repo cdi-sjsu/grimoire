@@ -40,7 +40,9 @@ If you haven't set that up yet, go do that first:
 ## Clone the course and get in
 
 ```sh
-git clone <the svlings repository URL> svling
+git clone https://github.com/cdi-sjsu/svlings
+#or
+git clone git@github:cdi-sjsu/svlings svlings
 cd svling
 nix develop
 ```

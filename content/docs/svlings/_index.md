@@ -30,5 +30,6 @@ either of those is new to you, that's exactly who this was written for.
 - **[What this is, and why](./about)** — the goal of the course, and the shape of what's in it.
 - **[Getting set up](./getting-started)** — cloning the course and getting the one command you need working.
 - **[Using the `svlings` command](./using-svlings)** — what `list`, `verify`, `run`, `watch`, `hint`, `solution`, and `reset` each do.
+- **[SystemVerilog language guide](./language-guide/)** — a concept-by-concept explanation of the syntax used by the exercises, written for first-time learners.
 - **[Talking to verilator directly](./verilator)** — the simulator underneath, once you want more than the wrapper gives you.
 - **[What's in the course](./course-map)** — every section, in order, with a one-paragraph feel for what it teaches before you open it.
