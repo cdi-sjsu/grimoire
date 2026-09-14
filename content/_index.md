@@ -4,6 +4,10 @@ layout: landing
 
 <br />
 
+<p align="center">
+  <img src="cdi.png" alt="CDI logo" width="120" height="120" />
+</p>
+
 # CDI Grimoire {anchor=false}
 
 This is the SJSU CDI's Grimoire.
