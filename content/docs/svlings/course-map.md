@@ -95,3 +95,10 @@ it happens instead of several stages downstream.
 Bundling a whole group of signals that always travel together into one thing you pass around,
 instead of wiring each one individually. Also where the course points you toward Phase 2 —
 class-based testbenches, randomization, coverage, UVM — once you're ready for it.
+
+### 15 — Capstone
+
+No `TODO`s. Three specifications, three empty modules, and nothing telling you which construct to
+reach for: an ALU, a shift register, and a sequence detector whose states you design yourself.
+This is where reading SystemVerilog turns into writing it, and it's deliberately the hardest part
+of the course.

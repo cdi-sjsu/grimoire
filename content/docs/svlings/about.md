@@ -58,6 +58,7 @@ trying to avoid it too.
 | 12 | Finite state machines |
 | 13 | Testbenches and verification |
 | 14 | Interfaces, and what's next |
+| 15 | Capstone — build three designs from a spec, unaided |
 
 That's the whole shape of it. See **[What's in the course](./course-map)** for a paragraph on
 each one, or just run `svlings list` once you're set up and let the course itself walk you
