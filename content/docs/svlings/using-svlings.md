@@ -36,6 +36,13 @@ with the whole course and want one final summary.
 svlings verify --all
 ```
 
+Every run rebuilds with verilator from scratch, on purpose (a cached, stale binary reporting an
+old result would be far more confusing than a few extra seconds). Day to day this is fast, since
+`verify` only builds up through wherever you currently are — but a full `--all` run, or a plain
+`verify` once you've finished the whole course, rebuilds all 28 exercises one after another and
+takes noticeably longer. That's expected; reach for `svlings run <name>` below for quick feedback
+on one exercise while you're actively working on it.
+
 ## `svlings run <name>`
 
 Builds and runs one specific exercise, verbosely — every line the testbench printed, not just a
